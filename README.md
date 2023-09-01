@@ -16,7 +16,6 @@
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Ne04j" width="26px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
 <br />
 
 ---
