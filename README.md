@@ -13,7 +13,7 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nomad" width="26px" src="https://cdn.worldvectorlogo.com/logos/nomad-2.svg" style="padding-right:10px;" />
-<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/neo4j/neo4j-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Ne04j" width="26px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
 <br />
