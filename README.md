@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
 
 ## I'm a Data Engineer and an aspiring Drummer 🥁
-- 👨‍💻 I currently work as a consultent with Kubrick Group.
+- 👨‍💻 2 years of data engeneering experiences working as a consultent for clients such as Schroders and JP Morgan.
 - 🌱 I’m working on building out my first data engennering project
 - 🥅 2023 Goal: Build and use a Graph Database to generate useful incites 
 - 👨‍🏫 Education: BSc Accounting and Finance.
