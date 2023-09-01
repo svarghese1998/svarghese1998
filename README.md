@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Dim;Nice+to+meet+you!&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Shijo;Nice+to+meet+you!&center=true&size=30">
 
 ## I'm a Data Engineer and an aspiring Drummer 🥁
 - 👨‍💻 2 years of data engeneering experiences working as a consultent for clients such as Schroders and JP Morgan.
