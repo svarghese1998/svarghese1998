@@ -11,6 +11,7 @@
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
 ### Languages and Tools
 <img align="left" alt="Azure Synapse" width="26px" src="http://code.benco.io/icon-collection/azure-icons/Azure-SQL-Server-Stretch-Databases.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure Synapse" width="26px" src="http://code.benco.io/icon-collection/azure-icons/Azure-SQL-Server-Stretch-Databases.svg" style="padding-right:10px;" />
 <img align="left" alt="Data Factory" width="26px" src="http://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Ne04j" width="26px" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" style="padding-right:10px;" />
