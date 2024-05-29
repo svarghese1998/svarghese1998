@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;I+am+Shijo;Nice+to+meet+you!&center=true&size=30">
 
-## I'm a Data Engineer and an aspiring Drummer 🥁
-- 👨‍💻 2 years of data engeneering experiences working as a consultent for clients such as Schroders and JP Morgan.
+## I'm a Data Engineer and an aspiring Marathoner 🏃🏾‍♂️ 
+- 👨‍💻 2 years of data engeneering experience building financial datamarts .
 - 🌱 I’m working on building out my first data engennering project
-- 🥅 2023 Goal: Build and use a Graph Database to generate useful incites 
+- 🥅 2024 Goal: Build some fun LLM powered apps.  
 - 👨‍🏫 Education: BSc Accounting and Finance.
 
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" /><br>
